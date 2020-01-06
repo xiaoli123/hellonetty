@@ -1,4 +1,4 @@
-package com.xiaoli.study.chapter1;
+package com.xiaoli.study.chapter2;
 
 import io.netty.buffer.ByteBuf;
 import io.netty.buffer.Unpooled;

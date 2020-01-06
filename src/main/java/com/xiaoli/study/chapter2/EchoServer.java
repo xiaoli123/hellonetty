@@ -1,4 +1,4 @@
-package com.xiaoli.study.chapter1;
+package com.xiaoli.study.chapter2;
 
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.ChannelFuture;
